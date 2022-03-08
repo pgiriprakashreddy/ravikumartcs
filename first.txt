@@ -1,7 +1,16 @@
+<<<<<<< HEAD
+Giriprakash 1
+Ravikumar 2
+pavan  222
+=======
 Giriprakash 2
 Ravikumar 1
+<<<<<<< HEAD
 abbireddypalli
 venkatapuram
 dhone
 kurnool
 andhrapradesh
+=======
+>>>>>>> de39bb170d68aba78948570f5dd82e21ca556433
+>>>>>>> 4a756830e619353ebf75e16bee06d2e647f92a9b
